@@ -1,18 +1,22 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HEADER BANNER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Israel%20Oladapo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Data%20Analytics&descAlignY=58&descSize=20"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Israel Oladapo</h1>
 
 <p align="center">
-  <strong>☁️ Aspiring Cloud Engineer • 👨‍💻 Data Analyst • 💻 Software Developer • ⚙️ DevOps Enthusiast</strong>
+  <strong>☁️ Aspiring Cloud Engineer • ⚙️ DevOps Enthusiast • 📊 Data Analyst</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <em>Building practical solutions, learning continuously, and growing one project at a time.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Israel1hub">
+    <img src="https://komarev.com/ghpvc/?username=Israel1hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
@@ -20,15 +24,17 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **Cloud & DevOps Engineer** passionate about technology, automation, infrastructure, and software development.
+I'm an aspiring **Cloud & DevOps Engineer** with a background in **Data Analytics** and a strong interest in cloud infrastructure, automation, Linux, and technology.
 
-I enjoy learning new technologies, building real-world projects, solving technical problems, and continuously improving my skills.
+I enjoy turning ideas into practical projects, working with data to uncover insights, and learning how modern applications are deployed, automated, and managed in the cloud.
 
-* 🔭 **Currently working on:** Project Name
-* 🌱 **Currently learning:** Technology
-* 🤝 **Looking to collaborate on:** Open Source Projects
-* 💬 **Ask me about:** Programming, Cloud, Linux, or DevOps
-* 🎯 **Career Goal:** Become a Cloud & DevOps Engineer
+I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linux, Docker, Git, CI/CD, and Kubernetes** while continuing to build real-world projects.
+
+* 🔭 **Currently working on:** Cloud & DevOps projects
+* 🌱 **Currently learning:** Cloud Engineering, DevOps & Kubernetes
+* 📊 **Data Analytics:** Excel, SQL & Power BI
+* 🤝 **Open to:** Collaborating on interesting projects and Open Source
+* 🎯 **Career Goal:** Cloud / DevOps Engineering
 * 📫 **Email:** [israeloladapo3@gmail.com](mailto:israeloladapo3@gmail.com)
 
 ---
@@ -39,105 +45,120 @@ I enjoy learning new technologies, building real-world projects, solving technic
   <a href="https://github.com/Israel1hub">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/israel-oladapo-642414247/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Israel_oladapo1">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws,azure" />
-</p>
+## 🛠️ Skills & Technologies
 
 ### ☁️ Cloud & DevOps
 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github" />
+</p>
+
 * AWS
 * Microsoft Azure
-* Docker
 * Linux
+* Docker
+* Kubernetes
 * Git & GitHub
 * CI/CD
-* Kubernetes
-* Infrastructure & Cloud Fundamentals
+* Cloud Infrastructure
+* Infrastructure as Code
+* Cloud Security Fundamentals
 
-### 💻 Development
+### 📊 Data Analytics
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+* Microsoft Excel
+* Power Query
+* Power BI
+* SQL / MySQL
+* Python
+* Pandas
+* NumPy
+* Data Cleaning
+* Data Visualization
+* Exploratory Data Analysis
+
+### 💻 Programming & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,vscode" />
+</p>
+
+* Python
+* JavaScript
 * HTML
 * CSS
-* JavaScript
-* Python
 * Node.js
-
-### 👨‍💻 Data Analysis
-
- * Excel
- * Microsoft SQL
- * Power BI
-   
+* Visual Studio Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. ☁️ Project One
+### ☁️ Cloud & DevOps Projects
 
-A short description of your first project. Explain the problem it solves, the technologies used, and what you learned while building it.
+> Projects in this section will showcase my hands-on experience with cloud infrastructure, Linux, Docker, CI/CD, automation, and deployment.
 
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
+### 📊 Data Analytics Projects
 
-🔗 **Repository:** https://github.com/yourusername/project-one
+> Projects demonstrating data cleaning, analysis, visualization, dashboard development, and business insights using Excel, SQL, Power BI, and Python.
 
----
+### 💻 Software Development Projects
 
-### 2. 🐳 Project Two
-
-A short description of your second project. Highlight the key features and your contribution.
-
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
-
-🔗 **Repository:** https://github.com/yourusername/project-two
+> Projects focused on building practical applications and strengthening my programming and development skills.
 
 ---
 
-### 3. ⚙️ Project Three
+## 📌 Project Portfolio
 
-A short description of your third project. Mention any cloud, DevOps, automation, or software development concepts demonstrated.
+| Project      | Description                       | Technologies              |
+| ------------ | --------------------------------- | ------------------------- |
+| 🔹 Project 1 | Add your project description here | `AWS` `Linux` `Docker`    |
+| 🔹 Project 2 | Add your project description here | `Python` `SQL` `Power BI` |
+| 🔹 Project 3 | Add your project description here | `Azure` `Git` `CI/CD`     |
 
-**Tech Stack:** `Technology 1` `Technology 2` `Technology 3`
-
-🔗 **Repository:** https://github.com/yourusername/project-three
+> More projects will be added as I continue building and learning.
 
 ---
 
 ## 🏆 Certifications
 
-| Certification                                | Issuing Organization | Date     | Credential           |
-| -------------------------------------------- | -------------------- | -------- | -------------------- |
-| Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | [View Credential](#) |
-| AWS Cloud Practitioner                       | AWS                  | Feb 2026 | [View Credential](#) |
-| Google Cloud Digital Leader                  | Google               | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Apr 2026 | [View Credential](#) |
+| Certification                                | Organization | Status                     |
+| -------------------------------------------- | ------------ | -------------------------- |
+| Microsoft Azure Fundamentals (AZ-900)        | Microsoft    | 🔄 In Progress / Completed |
+| AWS Cloud Practitioner                       | AWS          | 🔄 In Progress / Completed |
+| Google Cloud Digital Leader                  | Google       | 🔄 In Progress / Completed |
+| Kubernetes and Cloud Native Associate (KCNA) | CNCF         | 🔄 In Progress / Completed |
 
-> 💡 Add additional certifications as you earn them.
+> Certification status and credential links will be updated as certifications are completed.
 
 ---
 
 ## 📜 Certification Badges
 
 <p align="center">
+  <!-- Add your certification badge images here when available -->
+
   <img src="images/az900.png" width="120" alt="Microsoft Azure Fundamentals"/>
   &nbsp;&nbsp;
   <img src="images/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner"/>
   &nbsp;&nbsp;
-  <img src="images/kcna.png" width="120" alt="KCNA"/>
+  <img src="images/kcna.png" width="120" alt="Kubernetes and Cloud Native Associate"/>
   &nbsp;&nbsp;
   <img src="images/google-cloud.png" width="120" alt="Google Cloud"/>
 </p>
@@ -147,8 +168,8 @@ A short description of your third project. Mention any cloud, DevOps, automation
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Israel1hub&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics"/>
-  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Israel1hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Israel's GitHub Statistics"/>
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel1hub&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
@@ -157,7 +178,7 @@ A short description of your third project. Mention any cloud, DevOps, automation
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Israel1hub&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Israel1hub&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -165,21 +186,23 @@ A short description of your third project. Mention any cloud, DevOps, automation
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israel1hub&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israel1hub&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 My Goals
 
-* [ ] Build 10 real-world cloud projects
+* [ ] Build 10+ real-world Cloud & DevOps projects
+* [ ] Gain hands-on AWS experience
+* [ ] Gain hands-on Microsoft Azure experience
+* [ ] Strengthen Linux administration skills
+* [ ] Learn Docker and Kubernetes
+* [ ] Build and deploy CI/CD pipelines
+* [ ] Learn Infrastructure as Code
 * [ ] Contribute to Open Source
-* [ ] Earn Cloud Certifications
-* [ ] Learn Kubernetes
-* [ ] Improve Linux Skills
-* [ ] Build CI/CD pipelines
-* [ ] Gain hands-on AWS/Azure experience
-* [ ] Land a Cloud Engineering Role
+* [ ] Earn relevant Cloud & DevOps certifications
+* [ ] Transition into a Cloud / DevOps Engineering role
 
 ---
 
@@ -187,20 +210,62 @@ A short description of your third project. Mention any cloud, DevOps, automation
 
 ```text
 ☁️ Cloud Computing
-🐳 Docker & Containers
-⚙️ DevOps & CI/CD
-☸️ Kubernetes
+⚙️ DevOps
 🐧 Linux
-🔐 Cloud Security
+🐳 Docker
+☸️ Kubernetes
+🔄 CI/CD
 🏗️ Infrastructure as Code
+🔐 Cloud Security
+📊 Data Analytics
 ```
 
 ---
 
+## 💡 What I'm Interested In
+
 <p align="center">
-  <strong>⭐ Thanks for visiting my profile! ⭐</strong>
+
+☁️ Cloud Computing   •  
+⚙️ DevOps   •  
+🐳 Containers   •  
+☸️ Kubernetes
+
+<br>
+
+🐧 Linux   •  
+🔄 CI/CD   •  
+📊 Data Analytics   •  
+💻 Software Development
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and connecting with people in the technology community.
+
+<p align="center">
+  <a href="https://github.com/Israel1hub">GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/israel-oladapo-642414247/">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="https://x.com/Israel_oladapo1">X</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:israeloladapo3@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <strong>⭐ Thanks for visiting my profile!</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer"/>
+  <em>Keep learning. Keep building. Keep growing. 🚀</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
