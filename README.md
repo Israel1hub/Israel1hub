@@ -29,7 +29,7 @@ I enjoy learning new technologies, building real-world projects, solving technic
 * 🤝 **Looking to collaborate on:** Open Source Projects
 * 💬 **Ask me about:** Programming, Cloud, Linux, or DevOps
 * 🎯 **Career Goal:** Become a Cloud & DevOps Engineer
-* 📫 **Email:** [your-email@example.com](mailto:israeloladapo3@gmail.com)
+* 📫 **Email:** [israeloladapo3@gmail.com](mailto:israeloladapo3@gmail.com)
 
 ---
 
