@@ -142,21 +142,6 @@ I'm currently focused on strengthening my knowledge of **Microsoft Azure, AWS, L
 ---
 
 ---
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=Israel1hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" 
-    alt="Israel's GitHub Statistics"
-  />
-
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel1hub&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
 
 ---
 
