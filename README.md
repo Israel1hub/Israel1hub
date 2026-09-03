@@ -141,14 +141,6 @@ I'm currently focused on strengthening my knowledge of **Microsoft Azure, AWS, L
 
 ---
 
----
-
----
-
-
----
-
----
 
 ## 🎯 My Goals
 
