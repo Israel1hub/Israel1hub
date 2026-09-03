@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Israel Oladapo</h1>
 
 <p align="center">
-  <strong>☁️ Aspiring Cloud Engineer • ⚙️ DevOps Enthusiast • 📊 Data Analyst</strong>
+  <strong>☁️ Cloud Engineer • ⚙️ DevOps Enthusiast • 📊 Data Analyst</strong>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **Cloud & DevOps Engineer** with a background in **Data Analytics** and a strong interest in cloud infrastructure, automation, Linux, and technology.
+I'm a **Cloud & DevOps Engineer** with a background in **Data Analytics** and a strong interest in cloud infrastructure, automation, Linux, and technology.
 
 I enjoy turning ideas into practical projects, working with data to uncover insights, and learning how modern applications are deployed, automated, and managed in the cloud.
 
@@ -63,7 +63,7 @@ I'm currently focused on strengthening my knowledge of **Microsoft Azure, AWS, L
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
 </p>
 
 * Microsoft Azure
@@ -75,7 +75,7 @@ I'm currently focused on strengthening my knowledge of **Microsoft Azure, AWS, L
 ### 📊 Data Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" />
 </p>
 
 * Microsoft Excel
@@ -141,66 +141,7 @@ I'm currently focused on strengthening my knowledge of **Microsoft Azure, AWS, L
 
 ---
 
-## 📜 Microsoft Applied Skills
-
-<p align="center">
-  <em>Verified Microsoft Learn Credentials</em>
-</p>
-
-<table align="center">
-  <tr>
-
-    <td align="center" width="50%">
-      <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a">
-        <img 
-          src="images/microsoft-azure-management.png" 
-          width="300" 
-          alt="Microsoft Applied Skills - Get started with Azure management tasks"
-        />
-      </a>
-
-      <br><br>
-
-      <strong>Get started with Azure management tasks</strong>
-
-      <br><br>
-
-      <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a">
-        🔗 View Microsoft Credential
-      </a>
-    </td>
-
-    <td align="center" width="50%">
-      <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e">
-        <img 
-          src="images/microsoft-github-copilot.png" 
-          width="300" 
-          alt="Microsoft Applied Skills - Accelerate AI-assisted development by using GitHub Copilot"
-        />
-      </a>
-
-      <br><br>
-
-      <strong>Accelerate AI-assisted development by using GitHub Copilot</strong>
-
-      <br><br>
-
-      <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e">
-        🔗 View Microsoft Credential
-      </a>
-    </td>
-
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <strong>🏅 2 Microsoft Applied Skills Credentials Earned</strong>
-</p>
-
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -219,25 +160,8 @@ I'm currently focused on strengthening my knowledge of **Microsoft Azure, AWS, L
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Israel1hub&theme=github-dark-blue&hide_border=true" 
-    alt="GitHub Contribution Streak"
-  />
-</p>
 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Israel1hub&theme=github-compact&hide_border=true" 
-    alt="GitHub Contribution Graph"
-  />
-</p>
 
 ---
 
