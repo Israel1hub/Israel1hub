@@ -28,10 +28,11 @@ I'm an aspiring **Cloud & DevOps Engineer** with a background in **Data Analytic
 
 I enjoy turning ideas into practical projects, working with data to uncover insights, and learning how modern applications are deployed, automated, and managed in the cloud.
 
-I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linux, Docker, Git, CI/CD, and Kubernetes** while continuing to build real-world projects.
+I'm currently focused on strengthening my knowledge of **Microsoft Azure, AWS, Linux, Docker, Git, CI/CD, and Kubernetes** while continuing to build real-world projects.
 
 * 🔭 **Currently working on:** Cloud & DevOps projects
 * 🌱 **Currently learning:** Cloud Engineering, DevOps & Kubernetes
+* 💻 **Programming:** Python
 * 📊 **Data Analytics:** Excel, SQL & Power BI
 * 🤝 **Open to:** Collaborating on interesting projects and Open Source
 * 🎯 **Career Goal:** Cloud / DevOps Engineering
@@ -62,19 +63,14 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=azure" />
 </p>
 
-* AWS
 * Microsoft Azure
-* Linux
-* Docker
-* Kubernetes
-* Git & GitHub
-* CI/CD
-* Cloud Infrastructure
-* Infrastructure as Code
+* Cloud Computing Fundamentals
+* Cloud Infrastructure Fundamentals
 * Cloud Security Fundamentals
+* DevOps Fundamentals
 
 ### 📊 Data Analytics
 
@@ -96,14 +92,10 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 ### 💻 Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,vscode" />
 </p>
 
 * Python
-* JavaScript
-* HTML
-* CSS
-* Node.js
 * Visual Studio Code
 
 ---
@@ -112,7 +104,7 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 
 ### ☁️ Cloud & DevOps Projects
 
-> Projects showcasing my hands-on experience with cloud infrastructure, Linux, Docker, CI/CD, automation, and deployment.
+> Projects in this section showcase my hands-on learning and practical experience with cloud infrastructure, Azure, automation, deployment, and DevOps technologies.
 
 ### 📊 Data Analytics Projects
 
@@ -120,61 +112,83 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 
 ### 💻 Software Development Projects
 
-> Projects focused on building practical applications and strengthening my programming and development skills.
+> Projects focused on building practical applications and strengthening my Python programming and development skills.
 
 ---
 
 ## 📌 Project Portfolio
 
-| Project      | Description                       | Technologies              |
-| ------------ | --------------------------------- | ------------------------- |
-| 🔹 Project 1 | Add your project description here | `AWS` `Linux` `Docker`    |
+| Project | Description | Technologies |
+|---|---|---|
+| 🔹 Project 1 | Add your project description here | `Azure` `Python` |
 | 🔹 Project 2 | Add your project description here | `Python` `SQL` `Power BI` |
-| 🔹 Project 3 | Add your project description here | `Azure` `Git` `CI/CD`     |
+| 🔹 Project 3 | Add your project description here | `Azure` `Python` |
 
 > More projects will be added as I continue building and learning.
 
 ---
 
-# 🏆 Microsoft Certifications & Applied Skills
+# 🏆 Certifications & Applied Skills
+
+| Certification / Credential | Organization | Status | Credential |
+|---|---|---|---|
+| **Microsoft Applied Skills: Get started with Azure management tasks** | Microsoft | ✅ Earned | [View Credential](https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a) |
+| **Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot** | Microsoft | ✅ Earned | [View Credential](https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e) |
+| **Microsoft Azure Fundamentals (AZ-900)** | Microsoft | 🔄 In Progress | — |
+| **AWS Cloud Practitioner** | AWS | 🔄 In Progress | — |
+| **Google Cloud Digital Leader** | Google Cloud | 🔄 In Progress | — |
+| **Kubernetes and Cloud Native Associate (KCNA)** | CNCF | 🔄 In Progress | — |
+
+---
+
+## 📜 Microsoft Applied Skills
 
 <p align="center">
-  <strong>Microsoft Applied Skills Credentials</strong>
+  <em>Verified Microsoft Learn Credentials</em>
 </p>
-
-<p align="center">
-  <em>Verified credentials earned through Microsoft Learn</em>
-</p>
-
-<br>
 
 <table align="center">
   <tr>
+
     <td align="center" width="50%">
       <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a">
-        <img src="images/microsoft-azure-management.png" width="250" alt="Microsoft Applied Skills: Get started with Azure management tasks"/>
+        <img 
+          src="images/microsoft-azure-management.png" 
+          width="300" 
+          alt="Microsoft Applied Skills - Get started with Azure management tasks"
+        />
       </a>
+
       <br><br>
-      <strong>Microsoft Applied Skills: Get started with Azure management tasks</strong>
+
+      <strong>Get started with Azure management tasks</strong>
+
       <br><br>
+
       <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a">
-        🔗 View Credential
+        🔗 View Microsoft Credential
       </a>
     </td>
 
-```
-<td align="center" width="50%">
-  <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e">
-    <img src="images/microsoft-github-copilot.png" width="250" alt="Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot"/>
-  </a>
-  <br><br>
-  <strong>Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot</strong>
-  <br><br>
-  <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e">
-    🔗 View Credential
-  </a>
-</td>
-```
+    <td align="center" width="50%">
+      <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e">
+        <img 
+          src="images/microsoft-github-copilot.png" 
+          width="300" 
+          alt="Microsoft Applied Skills - Accelerate AI-assisted development by using GitHub Copilot"
+        />
+      </a>
+
+      <br><br>
+
+      <strong>Accelerate AI-assisted development by using GitHub Copilot</strong>
+
+      <br><br>
+
+      <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e">
+        🔗 View Microsoft Credential
+      </a>
+    </td>
 
   </tr>
 </table>
@@ -182,40 +196,25 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 <br>
 
 <p align="center">
-  🏅 <strong>2 Microsoft Applied Skills Credentials Earned</strong>
+  <strong>🏅 2 Microsoft Applied Skills Credentials Earned</strong>
 </p>
-
----
-
-## 📜 Credential Verification
-
-| Microsoft Credential                                          | Verification                                                                                                         |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| ☁️ Get started with Azure management tasks                    | [View Microsoft Credential](https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a) |
-| 🤖 Accelerate AI-assisted development by using GitHub Copilot | [View Microsoft Credential](https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e) |
-
-> All credentials above link directly to my Microsoft Learn credential pages for verification.
-
----
-
-## 📚 Other Certifications
-
-| Certification                                | Organization | Status         |
-| -------------------------------------------- | ------------ | -------------- |
-| AWS Cloud Practitioner                       | AWS          | 🔄 In Progress |
-| Google Cloud Digital Leader                  | Google Cloud | 🔄 In Progress |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF         | 🔄 In Progress |
-
-> Additional certifications will be added as they are completed.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Israel1hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Israel's GitHub Statistics"/>
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=Israel1hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" 
+    alt="Israel's GitHub Statistics"
+  />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel1hub&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel1hub&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -223,7 +222,10 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Israel1hub&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Israel1hub&theme=github-dark-blue&hide_border=true" 
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -231,7 +233,10 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israel1hub&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Israel1hub&theme=github-compact&hide_border=true" 
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 ---
@@ -264,54 +269,3 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 🔐 Cloud Security
 📊 Data Analytics
 🤖 AI-Assisted Development
-```
-
----
-
-## 💡 What I'm Interested In
-
-<p align="center">
-
-☁️ Cloud Computing   •  
-⚙️ DevOps   •  
-🐳 Containers   •  
-☸️ Kubernetes
-
-<br>
-
-🐧 Linux   •  
-🔄 CI/CD   •  
-📊 Data Analytics   •  
-🤖 AI-Assisted Development
-
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating, and connecting with people in the technology community.
-
-<p align="center">
-  <a href="https://github.com/Israel1hub">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/israel-oladapo-642414247/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://x.com/Israel_oladapo1">X</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:israeloladapo3@gmail.com">Email</a>
-</p>
-
----
-
-<p align="center">
-  <strong>⭐ Thanks for visiting my profile!</strong>
-</p>
-
-<p align="center">
-  <em>Keep learning. Keep building. Keep growing. 🚀</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-</p>
