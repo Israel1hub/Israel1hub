@@ -112,7 +112,7 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 
 ### ☁️ Cloud & DevOps Projects
 
-> Projects in this section will showcase my hands-on experience with cloud infrastructure, Linux, Docker, CI/CD, automation, and deployment.
+> Projects showcasing my hands-on experience with cloud infrastructure, Linux, Docker, CI/CD, automation, and deployment.
 
 ### 📊 Data Analytics Projects
 
@@ -136,32 +136,77 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 
 ---
 
-## 🏆 Certifications
+# 🏆 Microsoft Certifications & Applied Skills
 
-| Certification                                | Organization | Status                     |
-| -------------------------------------------- | ------------ | -------------------------- |
-| Microsoft Azure Fundamentals (AZ-900)        | Microsoft    | 🔄 In Progress / Completed |
-| AWS Cloud Practitioner                       | AWS          | 🔄 In Progress / Completed |
-| Google Cloud Digital Leader                  | Google       | 🔄 In Progress / Completed |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF         | 🔄 In Progress / Completed |
+<p align="center">
+  <strong>Microsoft Applied Skills Credentials</strong>
+</p>
 
-> Certification status and credential links will be updated as certifications are completed.
+<p align="center">
+  <em>Verified credentials earned through Microsoft Learn</em>
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a">
+        <img src="images/microsoft-azure-management.png" width="250" alt="Microsoft Applied Skills: Get started with Azure management tasks"/>
+      </a>
+      <br><br>
+      <strong>Microsoft Applied Skills: Get started with Azure management tasks</strong>
+      <br><br>
+      <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a">
+        🔗 View Credential
+      </a>
+    </td>
+
+```
+<td align="center" width="50%">
+  <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e">
+    <img src="images/microsoft-github-copilot.png" width="250" alt="Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot"/>
+  </a>
+  <br><br>
+  <strong>Microsoft Applied Skills: Accelerate AI-assisted development by using GitHub Copilot</strong>
+  <br><br>
+  <a href="https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e">
+    🔗 View Credential
+  </a>
+</td>
+```
+
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  🏅 <strong>2 Microsoft Applied Skills Credentials Earned</strong>
+</p>
 
 ---
 
-## 📜 Certification Badges
+## 📜 Credential Verification
 
-<p align="center">
-  <!-- Add your certification badge images here when available -->
+| Microsoft Credential                                          | Verification                                                                                                         |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ☁️ Get started with Azure management tasks                    | [View Microsoft Credential](https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/b6ba051a2362ff6a) |
+| 🤖 Accelerate AI-assisted development by using GitHub Copilot | [View Microsoft Credential](https://learn.microsoft.com/en-us/users/israeloladapo-6945/credentials/f9114978cde0e13e) |
 
-  <img src="images/az900.png" width="120" alt="Microsoft Azure Fundamentals"/>
-  &nbsp;&nbsp;
-  <img src="images/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner"/>
-  &nbsp;&nbsp;
-  <img src="images/kcna.png" width="120" alt="Kubernetes and Cloud Native Associate"/>
-  &nbsp;&nbsp;
-  <img src="images/google-cloud.png" width="120" alt="Google Cloud"/>
-</p>
+> All credentials above link directly to my Microsoft Learn credential pages for verification.
+
+---
+
+## 📚 Other Certifications
+
+| Certification                                | Organization | Status         |
+| -------------------------------------------- | ------------ | -------------- |
+| AWS Cloud Practitioner                       | AWS          | 🔄 In Progress |
+| Google Cloud Digital Leader                  | Google Cloud | 🔄 In Progress |
+| Kubernetes and Cloud Native Associate (KCNA) | CNCF         | 🔄 In Progress |
+
+> Additional certifications will be added as they are completed.
 
 ---
 
@@ -195,7 +240,7 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 
 * [ ] Build 10+ real-world Cloud & DevOps projects
 * [ ] Gain hands-on AWS experience
-* [ ] Gain hands-on Microsoft Azure experience
+* [x] Gain hands-on Microsoft Azure experience
 * [ ] Strengthen Linux administration skills
 * [ ] Learn Docker and Kubernetes
 * [ ] Build and deploy CI/CD pipelines
@@ -218,6 +263,7 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 🏗️ Infrastructure as Code
 🔐 Cloud Security
 📊 Data Analytics
+🤖 AI-Assisted Development
 ```
 
 ---
@@ -236,7 +282,7 @@ I'm currently focused on strengthening my skills in **AWS, Microsoft Azure, Linu
 🐧 Linux   •  
 🔄 CI/CD   •  
 📊 Data Analytics   •  
-💻 Software Development
+🤖 AI-Assisted Development
 
 </p>
 
